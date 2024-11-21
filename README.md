@@ -1,5 +1,3 @@
-Here’s a fun and engaging README for your project:
-
 ---
 
 # 🎉 Simple Counter App 🚀
