@@ -3,7 +3,7 @@ import "./simpleCounterStyle.css";
 
 function SimpleCounter() {
   const [num, setNum] = useState(0);
-  const [name, setName] = useState("Gerald");
+  const [name, setName] = useState("");
 
   return (
     <div className="box-container">
@@ -11,7 +11,7 @@ function SimpleCounter() {
         <div className="container">
           <div className="form-container">
             <h1 className="hello-label">
-              Hello, {name} this is a Simple Counter Program!
+              I miss you, {name == "" ? "Gerald" : name}.
             </h1>
             <input
               className="form-control"
