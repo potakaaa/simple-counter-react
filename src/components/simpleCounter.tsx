@@ -11,7 +11,7 @@ function SimpleCounter() {
         <div className="container">
           <div className="form-container">
             <h1 className="hello-label">
-              I miss you, {name == "" ? "Gerald" : name}.
+              I miss you, {name == "" ? "Baby" : name}.
             </h1>
             <input
               className="form-control"
