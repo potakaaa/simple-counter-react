@@ -1,5 +1,3 @@
----
-
 # 🎉 Simple Counter App 🚀
 
 Welcome to **Simple Counter App**! A minimal yet mighty counter built with **React**, **TypeScript**, and the blazing-fast ⚡ **Vite**. Whether you're counting sheep 🐑, push-ups 💪, or victories 🏆, this app has got your back.
