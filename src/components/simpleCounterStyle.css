@@ -71,8 +71,27 @@
   border: 2px solid #fab12f;
 }
 
+.number {
+  font-size: 100px;
+  margin: 20px;
+  margin-bottom: 30px;
+  text-shadow: -1px 3px 7px rgba(0, 0, 0, 0.53);
+}
+
 .btn-container {
-  margin: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+#add-btn {
+  width: 10rem;
+}
+
+#minus-btn {
+  width: 10rem;
 }
 
 .colors-1 {
